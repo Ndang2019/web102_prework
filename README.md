@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://jmp.sh/sCyD92no' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://jmp.sh/sCyD92no" target="_blank" title="Video Walkthrough">
+  <img src="https://jmp.sh/sCyD92no" alt="Video Walkthrough" width="500" />
+</a>
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with JumpShare 
